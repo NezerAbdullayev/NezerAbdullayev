@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer
+I'm a passionate Frontend Developer specialized in building modern, high-performance web applications using React and TypeScript. I enjoy creating clean, scalable, and user-friendly interfaces with attention to detail and performance.
 
 ## 🚀 Featured Project
 
